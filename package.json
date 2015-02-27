@@ -1,0 +1,26 @@
+{
+  "name": "livequery",
+  "version": "1.1.2",
+  "description": "Unofficial npm clone for livequery 1.1.1, at least until I can drop this dependency",
+  "main": "jquery.livequery.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/livequery.git"
+  },
+  "keywords": [
+    "jquery",
+    "livequery"
+  ],
+  "author": "Brandon Aaron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limdauto/livequery/issues"
+  },
+  "homepage": "https://github.com/limdauto/livequery"
+}
